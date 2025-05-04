@@ -64,11 +64,7 @@ const About = () => {
               </p>
 
               <p className="text-lg text-white/80 leading-relaxed">
-                I specialize in the MERN stack and have built full-fledged
-                projects like an e-commerce platform and a ChatGPT clone. From
-                frontend interfaces with React and Tailwind CSS to secure
-                backend systems with Node.js, Express, and MongoDB or SQL, I
-                love building complete solutions.
+               I specialize in the MERN stack and enjoy building complete solutions, focusing on frontend interfaces with React and Tailwind CSS, and secure backend systems with Node.js, Express, and MongoDB or SQL.
               </p>
               <motion.div
                 className="pt-4"
