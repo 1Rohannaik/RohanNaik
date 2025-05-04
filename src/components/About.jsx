@@ -70,14 +70,6 @@ const About = () => {
                 backend systems with Node.js, Express, and MongoDB or SQL, I
                 love building complete solutions.
               </p>
-
-              <p className="text-lg text-white/80 leading-relaxed">
-                Outside of coding, I enjoy exploring new tech ideas, building
-                real-time chat apps, and working on startup concepts that solve
-                real problems. I'm always learning and eager to create
-                meaningful products that make a difference.
-              </p>
-
               <motion.div
                 className="pt-4"
                 whileHover={{ scale: 1.03 }}
